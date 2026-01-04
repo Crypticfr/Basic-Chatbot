@@ -46,7 +46,7 @@ export default function Home() {
 
   return (
     <main style={{ maxWidth: 600, margin: "50px auto", fontFamily: "sans-serif" }}>
-      <h1>Your private part</h1>
+      <h1>Bondhu, Your private chatbot</h1>
 
       <div
         style={{
